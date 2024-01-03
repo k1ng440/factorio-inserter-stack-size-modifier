@@ -1,0 +1,13 @@
+{
+  "name": "inserter-stack-size-modifier",
+  "version": "0.0.1",
+  "title": "Inserter stack size modifier",
+  "author": "k1ng440",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base"
+  ],
+  "description": "Allows you to modify the stack size of inserters.",
+  "contact": "contact@iampavel.dev",
+  "homepage": "https://iampavel.dev"
+}
