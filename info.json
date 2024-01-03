@@ -7,14 +7,7 @@
   "dependencies": [
     "base"
   ],
-<<<<<<< HEAD
-  "description": "Allows you to modify the stack size of inserters.",
-  "contact": "contact@iampavel.dev",
-  "homepage": "https://iampavel.dev"
-}
-=======
   "description": "This mod for Factorio allows you to select inserters using the selection tool and modify their stack size without affecting other settings. This feature proves useful, especially in scenarios like train-to-train builds, where adjusting inserter stack size is a repetitive task.",
   "contact": "contact@iampavel.dev",
   "homepage": "https://github.com/k1ng440/factorio-inserter-stack-size-modifier"
 }
->>>>>>> aa22acd (fix: Improve portal documentation)
