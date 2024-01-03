@@ -195,7 +195,7 @@ function M.on_gui_click(event)
     end
 end
 
-function M.on_gui_closed(event) -- @@@
+function M.on_gui_closed(event) 
     local player = game.players[event.player_index]
     local element = event.element
 
